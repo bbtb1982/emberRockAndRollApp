@@ -1,7 +1,19 @@
 import Ember from 'ember';
+import { capitalizeWords as capitalize } from '../../../helpers/capitalize-words';
+function wait(promise, delay) {
+  return new Ember.RSVP.Promise(function(resolve) {
+    setTimeout(function() {
+      promise.then(function(result) {
+        resolve(result);
+      });
+    }, delay);
+  });
+}
+
 export default Ember.Route.extend({
     model: function(){
-        return this.modelFor('bands.band');
+        var songs = Ember.RSVP.resolve(this.modelFor('bands.band'));
+        return  wait(songs, 1 * 1000);
     },
     actions: {
         createSong: function(){
@@ -20,7 +32,8 @@ export default Ember.Route.extend({
         },
         didTransition: function(){
         	var band = this.modelFor('bands.band');
-        	Ember.$(document).attr('title', '%@ songs - Rock & Roll'.fmt(band.get('name')));
+            var name = capitalize(band.get('name'));
+        	Ember.$(document).attr('title', '%@ songs - Rock & Roll'.fmt(name));
         }
     }
 });

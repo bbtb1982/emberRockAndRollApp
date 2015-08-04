@@ -1,7 +1,10 @@
 # Rarwe
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+## Objective
+tutorial app to learn ember.js. creates nested routes, controllers, templates, componenets the the apporpiate acceptance and intergration testes. the tutorial also introduces the conecpt of filteirng and sorting collections as well as stubbin tests and create "seed" data. also conversion to using Rest adapter to fetch records from an external source.
+
 
 ## Prerequisites
 

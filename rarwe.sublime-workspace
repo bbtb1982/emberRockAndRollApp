@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lists",
+				"listsNew"
+			],
+			[
+				"model",
+				"modelFor"
+			],
+			[
+				"ro",
+				"routeName"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"c",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"code",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"code for",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"contr",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tk421/Development/Sites/rarwe"
+	],
+	"file_history":
+	[
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/httpMockTest/app/components/list-details.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/adapters/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/templates/lists.hbs",
+		"/Users/tk421/Development/Sites/www.radiatorworks.com/var/radiatorworks/nightlyImport/RadWorks_899261_849 2.csv",
+		"/Users/tk421/Development/Sites/www.radiatorworks.com/var/radiatorworks/nightlyImport/pending/RadWorks_899261_849.csv",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/templates/lists/list.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/templates/index.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/new.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/index.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/templates/lists.new.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/list/delete.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/list/edit.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/lists/list.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/routes/todos.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/tests/unit/models/list-test.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/router.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/serializers/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/app/models/todo.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/ember-cli-build.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/bower.json",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_2/config/environment.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_02/ember-cli-build.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_02/app/adapters/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_02/config/environment.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos_02/bower.json",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/models/list.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/models/todo.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/README.txt",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/components/edit-title.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/templates/lists/show.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/templates/lists.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/templates/application.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/controllers/lists/show.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/routes/lists/show.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/routes/lists.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/router.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/routes/lists/new.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/adapters/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/serializers/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/serializer/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/templates/lists/index.hbs",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/routes/lists/index.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/index.html",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/Adapter/application.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/controllers/lists.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/routes/list.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/todos/app/controllers/list.js",
+		"/Users/tk421/Development/Sites/ember.taskmanager.com/htdocs/taskmanager/app/models/List.js",
+		"/Users/tk421/Downloads/style.css",
+		"/Users/tk421/Development/etc/apache2/sites-available/ember.taskmanager.com",
+		"/Users/tk421/Downloads/secfilings_xbrl_save.php",
+		"/Users/tk421/Downloads/Ultimo Theme 1.10.3/Theme Files/Theme (patch for Magento 1.8.1.0, 1.9.0.0, 1.9.0.1)/app/design/frontend/ultimo/default/template/bundle/catalog/product/view/type/bundle.phtml",
+		"/Users/tk421/Downloads/driver.php",
+		"/Users/tk421/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/1027AD67-7B98-4F6E-8966-C6D5DBAA7BF2/LKQ Integration Services Implementation Guide v1.6 (20150317)/Sample Quote Request (20150316).xml",
+		"/Users/tk421/Development/C/cpp_primer/main.cc",
+		"/Users/tk421/Downloads/host.csv",
+		"/Users/tk421/Downloads/dreamhost_users.csv",
+		"/Users/tk421/Downloads/polevaulthost.csv",
+		"/Users/tk421/Downloads/localhost.sql",
+		"/Users/tk421/Downloads/slcac_wp.sql",
+		"/Users/tk421/Downloads/blob-stream.js",
+		"/Users/tk421/Downloads/recaptcha-php-1.11/recaptchalib.php",
+		"/Users/tk421/Development/Sites/kidtokid.com/htdocs/wp-config.php",
+		"/Users/tk421/Development/etc/apache2/sites-available/kidtokid.com",
+		"/Users/tk421/Development/etc/apache2/sites-available/xpsship.com",
+		"/Users/tk421/Development/etc/apache2/sites-enabled/www.newhavenhardware.com",
+		"/Users/tk421/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/12071598-BF2E-4005-AA0A-7D08853AF11A/_godfrey_trucking.xml",
+		"/Users/tk421/Downloads/zbp13detail.txt",
+		"/Users/tk421/Development/Sites/thetruckingrecruiter.com/indeed-feed.xml",
+		"/Users/tk421/Downloads/ColorSwatchesPro3.9.7/Step1/app/code/local/Amasty/Conf/sql/amconf_setup/mysql4-upgrade-3.8.8-3.9.0.php",
+		"/Users/tk421/Development/Sites/thetruckingrecruiter.com/indeed.xml",
+		"/Users/tk421/Downloads/movieApp/js/app.js",
+		"/Users/tk421/Downloads/movieApp/index.html",
+		"/Users/tk421/Downloads/movieApp/js/controllers.js",
+		"/Users/tk421/Downloads/movieApp/js/directives.js",
+		"/Users/tk421/Downloads/movieApp/js/filters.js",
+		"/Users/tk421/Downloads/movieApp/js/services.js",
+		"/Users/tk421/Development/Sites/www.radiatorworks.com/var/log/system.log",
+		"/Users/tk421/Development/etc/apache2/sites-available/wordpress.dev",
+		"/Users/tk421/Development/etc/apache2/sites-available/www.vantagepartners.net",
+		"/Users/tk421/Downloads/20150403_new_sku_inclusive.csv",
+		"/Users/tk421/Downloads/PATCH_SUPEE-5344_CE_1.8.0.0_v1-2015-02-10-08-10-38.sh",
+		"/Users/tk421/Development/Sites/www.vantagepartners.net/htdocs/wp-config.php",
+		"/Users/tk421/Development/Sites/www.vantagepartners.net/bak/pvmdev_vantagea.2015.04.08.sql",
+		"/Users/tk421/Downloads/payeezy-master/php/tests/PayeezyTest.php",
+		"/Users/tk421/Downloads/payeezy-master/php/src/Payeezy.php",
+		"/Users/tk421/Downloads/archive.php",
+		"/Users/tk421/Downloads/slider module/slider.php",
+		"/Users/tk421/Desktop/Sites/br_magento_com_171/skin/frontend/vyseracls/codekit-config.json",
+		"/Users/tk421/Development/Sites/symfony.thetruckingrecruiter.com/symfony_thetruckingrecruiter_com/web/AdminEx/html/index.html",
+		"/Users/tk421/Development/bak/pvmdev/recyte/recyt/wp-config.php",
+		"/Users/tk421/Development/bak/pvmdev/recyte/pvmdev_recytetet.sql",
+		"/Users/tk421/Development/Dumps/www.rockexotica.com/db_bak/url_update.2015.02.26.sql",
+		"/Users/tk421/Development/Dumps/www.rockexotica.com/db_bak/rockex_db.2015.02.26.sql",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/oauth.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/local.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/infortis_ultraslideshow.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/infortis_ultramegamenu.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/infortis_cloudzoom.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/infortis_brands.xml",
+		"/Users/tk421/Development/Sites/www.rockexotica.com/layout/checkout.xml",
+		"/Users/tk421/Downloads/thetruckingrecruiter.wordpress.2015-02-24.xml",
+		"/Users/tk421/Downloads/test-output.csv",
+		"/Users/tk421/Development/Dumps/mysql_queries.txt",
+		"/Users/tk421/Desktop/import_scrub_known2014.01.08.csv",
+		"/Users/tk421/Desktop/scrub_known.2014.01.09.csv",
+		"/Users/tk421/Desktop/export_all_products_reference_numbers.csv",
+		"/Users/tk421/Desktop/scrub.2014.01.09.csv",
+		"/Users/tk421/Desktop/lqk_metadata.2014.01.08.csv",
+		"/Users/tk421/Desktop/import_product_meta_data.2014.01.09.csv",
+		"/Users/tk421/Desktop/export_product_meta_data.csv",
+		"/Users/tk421/Desktop/radiatorworks_update_images2014.01.08.v1.csv",
+		"/Users/tk421/Desktop/export_product_custom_images.csv",
+		"/Users/tk421/Desktop/catalog_product_20150108_172542.csv",
+		"/usr/local/etc/php/5.5/conf.d/ext-xdebug.ini",
+		"/Users/tk421/Development/etc/apache2/sites-enabled/www.oro-crm.com",
+		"/usr/local/etc/php/5.5/php.ini",
+		"/Users/tk421/Development/etc/apache2/sites-available/www.oro-crm.com",
+		"/usr/local/etc/php/5.5/conf.d/ext-apcu.ini",
+		"/usr/local/etc/php/5.5/php.in",
+		"/Users/tk421/Development/Sites/www.oro-crm.com/bootstrap.sh",
+		"/Users/tk421/Development/Sites/www.oro-crm.com/Vagrantfile",
+		"/Users/tk421/Development/etc/apache2/sites-available/www.radiatorworks.com",
+		"/Users/tk421/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/tk421/Development/Sites/ember.taskmanager.com/todos",
+			"",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list.show",
+			"N",
+			"type=\"",
+			"id=\"",
+			"\" class",
+			"class=",
+			"for=",
+			"^",
+			",",
+			"^",
+			"\"]",
+			"[\"",
+			"\\t$",
+			"^[a-z]",
+			"\\s+",
+			"\\s",
+			"/\"",
+			"http://",
+			"^<a.*",
+			"N ",
+			"veriy",
+			"_recaptcha_http_post",
+			"www.newhavenhardware.com",
+			"$",
+			"godfreytrucking",
+			"$",
+			"pri",
+			";",
+			"=>",
+			"(",
+			"$pt_",
+			"source>",
+			"^d.*$\\s",
+			"$\\s",
+			"_",
+			"-",
+			"www.vantagepartners.net",
+			",Truck/Condensers/",
+			",Truck,",
+			",Truck/Condensers,",
+			"^Truck/Condensers",
+			"^Truck$",
+			"^Truck/Condensers/",
+			"^Truck/Condensers$",
+			"^Truck$",
+			"^",
+			"$",
+			"HDK",
+			"SPT",
+			"HTX",
+			"_HTX",
+			"HTX",
+			"_CONFIG",
+			"HDC",
+			"HDH",
+			"^",
+			"$",
+			"HDK",
+			"SPT",
+			"HTX",
+			"HDH",
+			"_CONFIG",
+			"HDC",
+			"HCD",
+			"#header:before",
+			"!import",
+			"h1",
+			"$,",
+			",",
+			"$,",
+			"www.radiatorworks.com",
+			"${DATA_VERSION}",
+			"project"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"www.oro-crm.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 307.0
+	},
+	"pinned_build_system": "",
+	"project": "rarwe.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/Vagrant/testVirtualBox/Vagrantfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
